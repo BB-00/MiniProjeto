@@ -1,0 +1,78 @@
+Restore Archived Project report for Fase1
+Thu Apr 11 10:04:26 2019
+Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Apr 11 10:04:26 2019 ;
+; Revision Name                   ; Fase1                                 ;
+; Top-level Entity Name           ; Fase1                                 ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'D:/Documents/MIECT/Ano1/Mini_Projeto/Fase1/Fase1_tmp_archive.qar' into the 'D:/Documents/MIECT/Ano1/LSD/MiniProjeto/Fase1' directory
+Info: Generated report 'Fase1.restore.rpt'
+
+
++-----------------------------+
+; Files Restored              ;
++-----------------------------+
+; File Name                   ;
++-----------------------------+
+; qar_info.json               ;
+; Bin2BCD.vhd                 ;
+; Bin7SegDecoder.vhd          ;
+; Counter.vhd                 ;
+; DebounceUnit.vhd            ;
+; Fase1.bdf                   ;
+; Fase1.qpf                   ;
+; Fase1.qsf                   ;
+; assignment_defaults.qdf     ;
+; freqDivN.vhd                ;
+; output_files/StartTimer.vhd ;
++-----------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

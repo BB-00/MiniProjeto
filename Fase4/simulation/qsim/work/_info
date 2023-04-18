@@ -1,0 +1,165 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/anton/Desktop/LSD/MiniProjeto/Fase4/simulation/qsim
+vFase4
+Z1 !s110 1555059542
+!i10b 1
+!s100 E[^>_KoF`h_JAI3fT1X5:1
+Ik;`^THd7oo1W27N]z5KBA0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1555059541
+Z4 8Fase4.vo
+Z5 FFase4.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1555059542.000000
+Z8 !s107 Fase4.vo|
+Z9 !s90 -work|work|Fase4.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@fase4
+Efase4
+Z12 w1555058796
+Z13 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 N5CzKW88F^ShIK@<7Vek12
+Z14 DPx10 cycloneive 21 cycloneive_components 0 22 K8IbX`K5[Y1gJUKg2X_071
+Z15 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z16 DPx6 altera 11 dffeas_pack 0 22 ?bDUB9Db2N8iCCALNL;CT3
+Z17 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z18 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z19 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z20 DPx6 altera 28 altera_primitives_components 0 22 c]VUMXSEi8Z`KM1bem<:B3
+R0
+Z21 8Fase4.vho
+Z22 FFase4.vho
+l0
+L79
+V5BF8W5o2W;e8@GLG>IE4?3
+!s100 YcO92>8Q=NBgea8Z71]3>0
+Z23 OV;C;10.5b;63
+32
+Z24 !s110 1555058797
+!i10b 1
+Z25 !s108 1555058797.000000
+Z26 !s90 -work|work|Fase4.vho|
+Z27 !s107 Fase4.vho|
+!i113 1
+R10
+Z28 tExplicit 1 CvgOpt 0
+Astructure
+R13
+R14
+R15
+R16
+R17
+R18
+R19
+R20
+DEx4 work 5 fase4 0 22 5BF8W5o2W;e8@GLG>IE4?3
+l1537
+L140
+Vcm^3[YMH]8;ONY3nlb8m;2
+!s100 a7YdGj@b8?JW<8mEdFSaB3
+R23
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R10
+R28
+Efase4_vhd_vec_tst
+Z29 w1555058794
+R18
+R19
+R0
+Z30 8WfFase4.vwf.vht
+Z31 FWfFase4.vwf.vht
+l0
+L31
+VCT>9@QA9_2j:MJa?iWEYX3
+!s100 JaIE1WjRjf>:2cU3ePVi:1
+R23
+32
+R24
+!i10b 1
+R25
+Z32 !s90 -work|work|WfFase4.vwf.vht|
+Z33 !s107 WfFase4.vwf.vht|
+!i113 1
+R10
+R28
+Afase4_arch
+R18
+R19
+DEx4 work 17 fase4_vhd_vec_tst 0 22 CT>9@QA9_2j:MJa?iWEYX3
+l56
+L33
+VU`F3V<<<L7[e4C[6]3ihT1
+!s100 YGFMc]R1U]<R`SDQ[kNKk1
+R23
+32
+R24
+!i10b 1
+R25
+R32
+R33
+!i113 1
+R10
+R28
+vFase4_vlg_vec_tst
+R1
+!i10b 1
+!s100 eScei08EzSY^bhi;IQ7JV2
+IGHU`3H^HQ4Q]=O[>W<DA70
+R2
+R0
+w1555059540
+8WfFase4.vwf.vt
+FWfFase4.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 WfFase4.vwf.vt|
+!s90 -work|work|WfFase4.vwf.vt|
+!i113 1
+R10
+R11
+n@fase4_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 AbcH]EWfL?]CRgFS;DK^k1
+I0H0aTM4O8EEQP7G?i`?800
+R2
+R0
+R3
+R4
+R5
+L0 22721
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
